@@ -37,3 +37,45 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 [@Academi_Conectix_bot](https://t.me/Academi_Conectix_bot)
 
 ## 📥 Download 
+
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+        <td>iOS</td>
+            <td>
+                <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=ios"></a
+               <a href="https://testflight.apple.com/join/FQkEGDfX"><img src="https://img.shields.io/badge/Connectix-Download-blue.svg?logo=ios"></a>
+            </td>
+        </tr>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://apps.irancdn.org/android/connectix-2.3.3-v8a.apk"><img src="https://img.shields.io/badge/SurfShark-APK-00FA9A.svg?logo=android"></a><br>                              
+            </td>
+        </tr>
+        <tr>
+            <td>Windows</td>
+            <td>
+                <a href="https://apps.irancdn.org/windows/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-C71585.svg?logo=Gitforwindows"></a><br>               
+            </td>
+        </tr>
+        <tr>
+            <td>macOS</td>
+            <td>
+                <a href="https://apps.irancdn.org/mac/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-32CD32.svg?logo=apple"></a><br>                                        
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+</div>
+
+
+Admin Github: NaseR & Amir
