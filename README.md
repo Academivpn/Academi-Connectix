@@ -2,7 +2,7 @@
 
 
 
-Connectix VPN 🌟
+Connectix VPN 
 
 
 🔸 نسل جدید V2RAY دارای نسخه V2RAY ارتقاء یافته و متصل به پروتوکل CISCO
@@ -15,9 +15,9 @@ Connectix VPN 🌟
 
 پشتیبانی از تمامی دستگاه ها⬇️
 
-Android❤️/IOS❤️/Windows❤️/Mac❤️
+Android/IOS/Windows/Mac
 
-❤️دارای قابلیت های  (نظیر Kill Switch، DNS Change و...)
+دارای قابلیت های  (نظیر Kill Switch، DNS Change و...)
  بدون نیاز به ساب لینک و دردسرهای آن
 
 بسیار بسیار راحت در نصب و استفاده
@@ -50,8 +50,8 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
                 <tr>      
         <td>iOS</td>
             <td>
-                <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=ios"></a><br>
-               <a href="https://testflight.apple.com/join/FQkEGDfX"><img src="https://img.shields.io/badge/Connectix-Download-blue.svg?logo=ios"></a>
+                <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=apple"></a><br>
+               <a href="https://testflight.apple.com/join/FQkEGDfX"><img src="https://img.shields.io/badge/Connectix-Download-blue.svg?logo=apple"></a>
             </td>
         </tr>
         <tr>
