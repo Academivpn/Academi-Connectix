@@ -28,6 +28,6 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 
 [@Academii_support](https://t.me/Academii_support)
 
-@Academi_Conectix_bot
+[@Academi_Conectix_bot](https://t.me/Academi_Conectix_bot)
 
 ## 📥 Download 
