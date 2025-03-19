@@ -69,14 +69,7 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
         <tr>
             <td>macOS</td>
             <td>
-                <a href="https://apps.irancdn.org/mac/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-32CD32.svg?logo=apple"></a> 
-   </td>
-        </tr>
-        <tr>
-            <td>Support</td>
-            <td>
-                <a
-href="https://t.me/Academi_vpn"><img src="https://img.shields.io/badge/Telegram-Channel-yellow?logo=apple"></a>                                                  </td>
+                <a href="https://apps.irancdn.org/mac/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-32CD32.svg?logo=apple"></a>                                                 </td>
         </tr>
     </tbody>
 </table>
