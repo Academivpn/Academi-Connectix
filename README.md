@@ -38,15 +38,16 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 
 ## 📥 Download 
 
-<table>
-    <thead align=left>
-        <tr>
+
+  <div class="table-container">
+        <table class="small-table">
+            <thead>                        
             <th>OS</th>
             <th>Download</th>
-        </tr>
-    </thead>
-    <tbody align=left>
-        <tr>
+             </tr>
+            </thead>
+            <tbody>
+                <tr>      
         <td>iOS</td>
             <td>
                 <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=ios"></a
