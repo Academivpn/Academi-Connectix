@@ -57,7 +57,7 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://apps.irancdn.org/android/connectix-2.3.3-v8a.apk"><img src="https://img.shields.io/badge/SurfShark-APK-00FA9A.svg?logo=android"></a>                         
+                <a href="https://apps.irancdn.org/android/connectix-2.3.3-v8a.apk"><img src="https://img.shields.io/badge/Connectix-APK-00FA9A.svg?logo=android"></a>                         
             </td>
         </tr>
         <tr>
