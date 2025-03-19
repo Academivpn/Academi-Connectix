@@ -57,19 +57,19 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://apps.irancdn.org/android/connectix-2.3.3-v8a.apk"><img src="https://img.shields.io/badge/SurfShark-APK-00FA9A.svg?logo=android"></a><br>                              
+                <a href="https://apps.irancdn.org/android/connectix-2.3.3-v8a.apk"><img src="https://img.shields.io/badge/SurfShark-APK-00FA9A.svg?logo=android"></a>                         
             </td>
         </tr>
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://apps.irancdn.org/windows/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-C71585.svg?logo=Gitforwindows"></a><br>               
+                <a href="https://apps.irancdn.org/windows/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-C71585.svg?logo=Gitforwindows"></a>              
             </td>
         </tr>
         <tr>
             <td>macOS</td>
             <td>
-                <a href="https://apps.irancdn.org/mac/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-32CD32.svg?logo=apple"></a><br>                                        
+                <a href="https://apps.irancdn.org/mac/Connectix-2.3.2.zip"><img src="https://img.shields.io/badge/Connectix-Zip-32CD32.svg?logo=apple"></a>                                  
             </td>
         </tr>
     </tbody>
