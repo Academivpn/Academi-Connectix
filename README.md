@@ -83,3 +83,5 @@ href="https://t.me/Academi_vpn"><img src="https://img.shields.io/badge/Telegram-
 
 </div>
 
+Admin Github: NaseR & Amir
+
