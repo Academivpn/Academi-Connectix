@@ -50,7 +50,7 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
                 <tr>      
         <td>iOS</td>
             <td>
-                <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=ios"></a
+                <a href="https://apps.apple.com/us/app/testflight/id899247664"><img src="https://img.shields.io/badge/Connectix-TestFlight-EE82EE.svg?logo=ios"></a><br>
                <a href="https://testflight.apple.com/join/FQkEGDfX"><img src="https://img.shields.io/badge/Connectix-Download-blue.svg?logo=ios"></a>
             </td>
         </tr>
