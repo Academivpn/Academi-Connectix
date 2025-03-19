@@ -76,7 +76,7 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
             <td>Support</td>
             <td>
                 <a
-href="https://t.me/Academi_vpn"><img src="https://img.shields.io/badge/Telegram-Channel-Yellow.svg?logo=apple"></a>                                                  </td>
+href="https://t.me/Academi_vpn"><img src="https://img.shields.io/badge/Telegram-Channel-yellow?logo=apple"></a>                                                  </td>
         </tr>
     </tbody>
 </table>
