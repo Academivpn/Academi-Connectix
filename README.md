@@ -26,7 +26,8 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 
 دارای ضمانت تا روز اخر با پشتیبانی ۲۴ ساعته
 
-![IMG_20250319_194521_873](https://github.com/user-attachments/assets/5951af64-37c3-48fe-8733-d9af0cd9362f)
+![IMG_20250319_195114_638](https://github.com/user-attachments/assets/b7231b31-9853-4a48-97eb-a4867aa852b5)
+
 
 
 برای خرید و دریافت اکانت تست به این ایدی در تلگرام پیام دهید:
