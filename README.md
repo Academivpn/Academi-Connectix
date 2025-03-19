@@ -26,6 +26,9 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 
 دارای ضمانت تا روز اخر با پشتیبانی ۲۴ ساعته
 
+![IMG_20250319_194521_873](https://github.com/user-attachments/assets/5951af64-37c3-48fe-8733-d9af0cd9362f)
+
+
 برای خرید و دریافت اکانت تست به این ایدی در تلگرام پیام دهید:
 
 [@Academii_support](https://t.me/Academii_support)
