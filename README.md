@@ -26,7 +26,7 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
 
 برای خرید و دریافت اکانت تست به این ایدی در تلگرام پیام دهید:
 
-[@Academii_support] (https://t.me/Academii_support)
+[@Academii_support](https://t.me/Academii_support)
 
 @Academi_Conectix_bot
 
