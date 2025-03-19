@@ -73,8 +73,6 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
         </tr>
     </tbody>
 </table>
-
-
 </div>
 
 
