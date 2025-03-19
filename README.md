@@ -74,7 +74,6 @@ Android❤️/IOS❤️/Windows❤️/Mac❤️
         </tr>
     </tbody>
 </table>
+
 </div>
 
-
-Admin Github: NaseR & Amir
